@@ -1,0 +1,9 @@
+opts = "-p contrib"
+
+pkgs = 
+    Gilly.Grammar
+  , Gilly.Util
+  , Gilly.Parser
+
+[dependencies]
+"git/master" = { git = "https://github.com/ziman/lightyear.git" }

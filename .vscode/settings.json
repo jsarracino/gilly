@@ -1,0 +1,7 @@
+{
+  "idris.executablePath": "idris",
+  "idris.args": [
+    "-p contrib"
+  ]
+
+}
